@@ -31,7 +31,7 @@ which tags to use or how to write them.)
 
 ### Get To Werk
 
-Write your code in `index.html`. Your job is to make sure the text from
+<p> Write your code in `index.html`. Your job is to make sure the text from
 `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags.
 
 Keep that file open in both your text editor (to make changes to the HTML) and
@@ -40,6 +40,7 @@ address it provides to see the album cover as you build it.
 
 Run `learn` or `rspec` to make sure you've met all the deliverables and passed
 the tests.
+</p>
 
 ### Top Tip
 
